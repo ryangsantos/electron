@@ -1,0 +1,11 @@
+1- npm init
+2- intalar electron "npm install electron --save-dev"
+3- na raiz criar i arquivo main.js
+4- configurar o script do package.json para iniciar electron
+   "scripts": {
+    "start": "electron ."
+  }
+ Executar o electron pelo console: npm run start
+
+ 5- configurar main.js
+ 
